@@ -1,0 +1,34 @@
+* You will now be able to download an admission form after adding a PDF student in the admissions section.
+* Ahora se podrá descargar un archivo PDF con la ficha de inscripción del estudiante después de agregarlo en la sección de admisión.
+
+* Fixed issue when sending emails.
+* Se corrigió el problema al enviar correos electrónicos.
+
+* Se agregó un timeline de las actividades del estudiante y padre.
+* Added a timeline of student and parent activities.
+
+* Fixed problem translating script.
+* Se arregló el problema al traducir el script.
+
+* Now you can add live classes with Jitsi, Zoom, Google Meet, among others, through a link.
+* Ahora se pueden agregar clases en vivo con Jitsi, Zoom, Google Meet, entre otros, a tráves de un enlace.
+
+* Now automatic attendance is taken when entering a live class.
+* Ahora se toma asistencia automática al momento de ingresar a una clase en vivo.
+
+* Teachers can now remove assignments from students.
+* Ahora los profesores pueden eliminar entrega de tareas por los estudiantes.
+
+* Now the student can submit multiple files in their homework submissions.
+* Ahora el estudiante puede enviar múltiples archivos en sus entregas de tareas.
+
+* Teachers can now create message groups.
+* Ahora los profesores pueden crear grupos de mensajes.
+
+* Now you can change the date format in system settings.
+* Ahora puedes cambiar el formato de fecha en ajustes del sistema.
+
+* Now you can translate the calendar into your language from system settings.
+* Ahora puedes traducir el calendario a tu idioma desde ajustes del sistema.
+
+
